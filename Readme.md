@@ -1,18 +1,18 @@
-# PyQt5-ConvertidorArch
-Project #2 with Python-PyQt5. Una herramienta sencilla para 
-convertir archivos .ui a .py y tambien .qrc a .py.
+# PyQt5-ArchConverter
+Project #2 with Python-PyQt5. A simple tool for
+convert .ui files to .py and also .qrc to .py.
 
-archivo principal __main__.pyw, al ejecutar este archivo 
-muestra las opciones disponibles que se muestra en este 
-programa. 
+main file __main__.pyw, when running this file
+displays the available options shown in this
+program.
 
-Es importante saber que se nesesitan conocimientos basicos
-en python y en la creacion de aplicaciones de pc con python
-utilizando librerias pyqt o pyside, para poder adactar el 
-codigo  esto con el objectivo que quede el programa funcionando 
-en nuevas actualizaciones.
+It is important to know that basic knowledge is needed
+in python and in the creation of pc applications with python
+using pyqt or pyside libraries, in order to adapt the
+I code this with the aim of leaving the program running
+in new updates.
 
-**Image 1**
+**Picture 1**
 
 ![Sample image of the program](./Image1.png)
 
